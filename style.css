@@ -7,8 +7,11 @@ body {
     line-height: inherit;
     max-width: 85%;
     margin: auto;
-
+padding: 0;
+  font-family: Arial, sans-serif;
+  color: #0a1128;
 }
+
 nav.primary-navbar {
     display: flex;
     flex-direction: row;
@@ -77,18 +80,13 @@ h1.making-the-digital {
    display: flex;
     align-content: space-between;
     align-items: flex-start;
-    /* margin: auto; */
+    
     padding: 3% 0%;
 }
 
 
 
-body {
- /* margin: 0; */
-  padding: 0;
-  font-family: Arial, sans-serif;
-  color: #0a1128;
-}
+
 
 .section {
   max-width: 1200px;
