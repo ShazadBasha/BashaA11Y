@@ -4,6 +4,9 @@ body {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
+    line-height: inherit;
+    max-width: 85%;
+    margin: auto;
 
 }
 nav.primary-navbar {
