@@ -74,10 +74,11 @@ h1.making-the-digital {
     justify-content: space-around;
 }
 .top-sepearator {
-    display: flex;
+   display: flex;
     align-content: space-between;
     align-items: flex-start;
-    margin: auto;
+    /* margin: auto; */
+    padding: 3% 0%;
 }
 
 
