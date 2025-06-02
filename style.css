@@ -149,7 +149,10 @@ body {
   padding: 10px 20px;
   border-radius: 4px;
 }
-
+ul.top-nav.navigation-menuu li {
+    font-size: medium;
+    font-weight: 500;
+}
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .section__content {
